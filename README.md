@@ -6,4 +6,4 @@ Part of the freeCodeCamp certification projects. Thank you guys.
 
 ## Site link
 
-You can find and play with the site here:
+You can find and play with the site (here)[https://telephone-validator.pages.dev] 
