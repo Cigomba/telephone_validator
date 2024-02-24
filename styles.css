@@ -1,0 +1,10 @@
+input,
+button {
+	padding: 10px 20px;
+	font-size: 18px;
+}
+
+.container {
+	margin: 0 auto;
+	width: 500px;
+}
